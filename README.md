@@ -1,6 +1,6 @@
 # Old Skool Snake Game
-###Pure JavaScript and CSS</br>
-###No Extra Libraries 
+### Pure JavaScript and CSS</br>
+### No Extra Libraries 
 
 ## Functionality
 - *Move the Snake in 4 Directions
